@@ -7,6 +7,21 @@ def createJson(datas):
     with open("datas.json", "w", encoding='utf8') as outfile:
         outfile.write(json_object)
 
+def hasFreeShipping(string_text):
+    try:
+        string_text.text
+        return True
+    except:
+        return False
+
+def processStoreName(string_text):
+    try:
+        new_string = string_text.text.split(' ')
+        del(new_string[0])
+        return ' '.join(new_string)
+    except:
+        return "NOME_DA_LOJA_NAO_FORNECIDO"
+
 def convertFloat(string_value):
     return float(string_value)
 
@@ -43,21 +58,23 @@ def getProduct(search_link):
         amount_value = product.find('div', attrs = {'ui-search-item__group ui-search-item__group--price'})
         parcel_value = product.find_all('div', attrs = {'ui-search-price__second-line'}) 
         product_link = product.find('a', attrs={'class': 'ui-search-result__content ui-search-link'}) 
-        product_code = product.find('input', attrs = {'name': 'itemId'}) 
+        product_code = product.find('input', attrs = {'name': 'itemId'})
+        product_image = product.find('img', attrs = {'width': '284'})
 
         valueParcel = processPriceValue(parcel_value[1].text)
         amountParcel = processAmountParcel(amount_value.text)
 
         dado = { 
 
-            'preco': processPriceValue(price.text),
-            # 'frete_gratis': hasFreteGratis(frete_gratis),
-            # 'nome_loja': hasLoja(nome_loja),
+            'valor': processPriceValue(price.text),
             'valor_parcelado': parcelValue(valueParcel, amountParcel),
             'nome_produto': product_name.text,
-            # 'numero_parcela': amount_value.text,
+            'foto': product_image['data-src'],
+            'frete_gratis': hasFreeShipping(free_shipping),
+            'nome_loja': processStoreName(store_name),
             'link_produto': product_link['href'],
             'codigo_produto': product_code['value']
+     
         
         }
         dados.append(dado)
