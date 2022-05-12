@@ -3,39 +3,59 @@ from bs4 import BeautifulSoup
 import json 
 
 
-search = input('Digite o termo da sua pesquisa')
-url_search = 'https://lista.mercadolivre.com.br/' + search
-response = requests.get(url_search)
+def convertFloat(string_value):
+    return float(string_value)
+
+def processPriceValue(string_text):
+    try:
+        new_string = string_text.replace("R$", ",").split(',')
+        del(new_string[0])
+        return convertFloat(new_string[0]+ '.'+ new_string[1])
+    except:
+        return 0.0
+
+def processAmountParcel(string_text):
+    new_string = string_text.replace("em", "x").split('x')
+    return convertFloat(new_string[1])
+
+def parcelValue(valueParcel, amountParcel ):
+    valueTotal = valueParcel * amountParcel
+    return valueTotal
+
+
+response = requests.get('https://lista.mercadolivre.com.br/tenis-nike')
 mercadoLivre = BeautifulSoup(response.text, 'html.parser')
 
 
 def getProduct(search_link):
-    produtos = search_link.find_all('div', attrs={'class': 'ui-search-result__wrapper'})
+    products = search_link.find_all('div', attrs={'class': 'ui-search-result__wrapper'})
 
-    for produto in produtos:
-        preco = produto.find('span', attrs={'class': 'price-tag ui-search-price__part'}) #ok
-        frete_gratis = produto.find('p', attrs={'class': 'ui-search-item__shipping ui-search-item__shipping--free'}) #ok
-        nome_loja = produto.find('p', attrs= {'class': 'ui-search-official-store-label ui-search-item__group__element ui-search-color--GRAY'}) #ok
-        nome_produto = produto.find('h2', attrs= {'ui-search-item__title ui-search-item__group__element'}) #ok
-        numero_parcela = produto.find('span', attrs = {'ui-search-item__group__element ui-search-installments ui-search-color--LIGHT_GREEN'})
-        valor_parcelado = produto.find_all('div', attrs = {'ui-search-price__second-line'}) #ok tem que puxar na posicao correta
-        link_produto = produto.find('a', attrs={'class': 'ui-search-result__content ui-search-link'}) #okok
-        codigo_produto = produto.find('input', attrs = {'name': 'itemId'}) #OKPORRA
+    for product in products:
+        price = product.find('span', attrs={'class': 'price-tag ui-search-price__part'}) 
+        free_shipping = product.find('p', attrs={'class': 'ui-search-item__shipping ui-search-item__shipping--free'}) 
+        store_name = product.find('p', attrs= {'class': 'ui-search-official-store-label ui-search-item__group__element ui-search-color--GRAY'}) #ok
+        product_name = product.find('h2', attrs= {'ui-search-item__title ui-search-item__group__element'}) 
+        #amount_value = product.find('span', attrs = {'ui-search-item__group__element ui-search-installments ui-search-color--LIGHT_GREEN'})
+        amount_value = product.find('div', attrs = {'ui-search-item__group ui-search-item__group--price'})
+        parcel_value = product.find_all('div', attrs = {'ui-search-price__second-line'}) 
+        product_link = product.find('a', attrs={'class': 'ui-search-result__content ui-search-link'}) 
+        product_code = product.find('input', attrs = {'name': 'itemId'}) 
 
-    
+        valueParcel = processPriceValue(parcel_value[1].text)
+        amountParcel = processAmountParcel(amount_value.text)
+
         dados = { 
 
-            'preco': preco.text,
+            'preco': processPriceValue(price.text),
             # 'frete_gratis': hasFreteGratis(frete_gratis),
             # 'nome_loja': hasLoja(nome_loja),
-            'nome_produto': nome_produto.text,
-            'numero_parcela': numero_parcela.text,
-            'valor_parcelado': valor_parcelado[1].text,
-            'link_produto': link_produto['href'],
-            'codigo_produto': codigo_produto['value']
+            'valor_parcelado': parcelValue(valueParcel, amountParcel),
+            'nome_produto': product_name.text,
+            # 'numero_parcela': amount_value.text,
+            'link_produto': product_link['href'],
+            'codigo_produto': product_code['value']
         
         }
     return dados
-
 
 print(getProduct(mercadoLivre))
