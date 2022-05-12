@@ -1,0 +1,542 @@
+[
+    {
+        "valor": 279.99,
+        "valor_parcelado": 2519.91,
+        "nome_produto": "Tênis Runfalcon 2.0 adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_809634-MLB44586169987_012021-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=NQLr2CXt8%2F1sBMyPXhIacQp6br%2F64YI9Xy9XcEEKyWCjV2whUjDhIDjFBp6abrxWDoxxgAFAjM1p83Skdsi3Ld7JD8OcdE3TbIoGQA4P%2BDE2vhore06yFiCgBr2gpUHadRVG0BuumFGAzujBezbl3JxZODkeZU1urxD8GS5McIz62j9bIbNugdFIuTaUlwXYE2h9G1LIgTBYdt7y4qmlnsnW0%2FaXwdxQd0JBMxldRoET8RlaLlRatFldyGQrXKW2olR17w2w1AG2ryeaVeHf9%2FX4OzLfbxtjB%2F3cRLkYNW9DNYJfEJs3A%2Fka15b6veODH8elU2IuyNU42Q8OHUTubkXMJuGCVQJz0Y5VD1bXP7LW%2BLqNNIRUVbeS6NLIcdS%2F8UnWaY2%2F%2B%2FX35aO0YvTU9lug7axgUeIYFT7fSURvoZIywS8F6VctyvXFERX%2BoQJ%2FzLgJG8WxNykpmjAs1PDYH9GBCmcJhT0Ae2IecohO%2FqLPOz5OCG6ULaRbIvhgVgdaObvYB%2Bo8PMIrj1s%2Bn%2F8dnloO3cfmthaU9Ui74YlEXi6TBpJKLeSe634LtBhb6FNC2eg7Zwa1mfuU6dJh%2F3zV18bkRP11r9K6CUkzvCo3EEgBPXEHzmnXR%2FiydMcirxwSmQUXvpWDHKNokDkdL45ssXzflwQBpOQ3jHo3XoCMdoXR%2Bsium7G783Thai3ijLl%2BrMZKbp%2BL7QXe4CeG4hTzrsFXkWoPXR3oxv1%2Bd8cM&rb=x",
+        "codigo_produto": "MLB1766671186"
+    },
+    {
+        "valor": 239.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Masculino Advantage Base adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_849647-MLA48404124840_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2106832553-tnis-masculino-advantage-base-adidas-_JM?searchVariation=173982658276#searchVariation=173982658276&position=6&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2106832553"
+    },
+    {
+        "valor": 249.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Grand Court Base adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_820082-MLB43991751780_112020-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1703475074-tnis-grand-court-base-adidas-_JM?searchVariation=67424895871#searchVariation=67424895871&position=7&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1703475074"
+    },
+    {
+        "valor": 229.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Advantage Base Feminino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_610075-MLA48417165125_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2103892157-tnis-advantage-base-feminino-adidas-_JM?searchVariation=173972881211#searchVariation=173972881211&position=8&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2103892157"
+    },
+    {
+        "valor": 269.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Grand Court Beyond Masculino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_620781-MLA48659464971_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2134170583-tnis-grand-court-beyond-masculino-adidas-_JM?searchVariation=174074666828#searchVariation=174074666828&position=9&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2134170583"
+    },
+    {
+        "valor": 219.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Runfalcon 2.0 Feminino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_903851-MLB48810810079_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2103887074-tnis-runfalcon-20-feminino-adidas-_JM?searchVariation=173972898790#searchVariation=173972898790&position=10&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2103887074"
+    },
+    {
+        "valor": 229.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Masculino Lite Racer 3.0 adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_911992-MLB49256066575_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2106868302-tnis-masculino-lite-racer-30-adidas-_JM?searchVariation=173982706097#searchVariation=173982706097&position=13&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2106868302"
+    },
+    {
+        "valor": 219.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "adidas Runfalcon 2.0 Homem Adultos",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_940378-MLA48642558168_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://www.mercadolivre.com.br/tnis-para-homem-adidas-runfalcon-20-cor-grey-fivecore-blackgrey-three-adulto-39-br/p/MLB18676147?pdp_filters=category:MLB23332#searchVariation=MLB18676147&position=2&search_layout=grid&type=product&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2604415044"
+    },
+    {
+        "valor": 271.91,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Response Run Classic Masculino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_903851-MLA47951503665_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2071232962-tnis-response-run-classic-masculino-adidas-_JM?searchVariation=173860367997#searchVariation=173860367997&position=14&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2071232962"
+    },
+    {
+        "valor": 299.9,
+        "valor_parcelado": 3598.7999999999997,
+        "nome_produto": "Tenis adidas Grand Court Base - Original",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_872714-MLB44104529546_112020-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "5M Sports",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1495069387-tenis-adidas-grand-court-base-original-_JM?searchVariation=64284036976#searchVariation=64284036976&position=15&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1495069387"
+    },
+    {
+        "valor": 149.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Tensor (unissex) adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_886674-MLB48660354453_122021-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=z%2B2y%2BMwki46QIWUZbqwsKolP3ufJsEWYNAnT7uE3xnsRlNmaaa7bwmXioA3kGoM2a94FHWy22Gx74750Xx3HdcPumDe5d7oS1Kls6y%2FdstlUjnJorUxDu%2FZ88vc2zV6SQshcGjYNPnuifzrXuoXkOaWOzcSVy6SqbXMPQS6MiFCbhKc3wps9WaDtUg0%2F4VHMHlfLtxl6w5NF6sQlNiMo0DZzPlnwxqmA8m%2BNX2Xiz%2BEiGqpaoBP7bKfyd50cbRXYBM61Cvz74ki%2FdI2%2BmbsTCcwxiR1vpj3AbRWtkT6iWOkh%2Fd9%2BMcHbFam0%2Bc8iezoaGMNWORZNSk3VlK45wqJ9k0CC1nrTj8iAnM0hBCoa7RbdosfBHyGd8Ax9p4YUDtKbgqbQrwGiDXa3ZB%2BR7dz87RekKR5dcbj809UxFXH4NrzUDDzhYhKaexPk9g%2F9ovtqXLP4K09DQEZ27hNlAtKnvOjzzQuY1jHqPV8oioG2hp0PLrBjRgJfBChUTO15xb4FB5GWB6ii3WL8v0tgzeRV0yOLCwK4gzmvbnqDc8RoxkV8MdSSbLtMiF%2F8%2FUspKKZlcwTB6jwyh%2BOb2oi83cbvRdlYnTj8aqmE581AFjzYAGvxZgj2YW5oGU9F12KsSgGwYCdtyS3CfPMVm9vPdCB82lRqqnd8bZ%2FbQddcm0sWZAjDgXLImHaz4HctwhUGpKa3HrqS2QuvL9OAUO8%2F9Pn%2BV3nMlFwMMbyVU%2BQ%2F6Nw%2Fg6Xypao%3D&rb=x",
+        "codigo_produto": "MLB2123181083"
+    },
+    {
+        "valor": 299.99,
+        "valor_parcelado": 2699.91,
+        "nome_produto": "Tênis Run 60s 2.0 adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_674991-MLB46839768520_072021-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=otvUdEgHfqPMrHUFoD0aO9aeVS22iS%2F%2FrDCp50j39vcOY7Hlp4CyvUhrXs9qP4cyMTkcneFjrED%2BMAFs8fOuL9SxVZiq0%2Fb%2FmkLTnApadLX0eWTlKC%2FpelWRvMs7OBDkqlAPaomDnZXBIufUEmgbJAum6ruUCeNGGMyJvVx93yo75idRxTvRWaFRNBki3MrdL05sftFB%2FzPku9rJeD7OoSgmP%2F%2FOzfLAGwSbIWDvz9Yl9%2BEah138QZufcfhc%2Fk6LcKn1E4kXi6LeFmw57FyWeHdy2XP6YI9hY6kyohh30PV7jULR65de4kF0f13CpXkziBPhuESVOt7NFkdcxQakmL8ZCmhvXYYUpCQlRQVEShMQAf7jLCH4uU1ND%2B7l2z4ICG%2FOLok7Ym6CSQ6ODohqNTdv46LadJ%2BicRM5Yjm%2B%2BrQdAQhBmsI9DeiSmNdqe2ZVG2anytD4MpMZTm596vaHAJvup6KEiVMqyzaT6g1D6Qq0NPMh0WRfJ%2FWJqezfzN3IBJzZ96dD51gB7I3pbAi34QSKVZsMZfdymM7BGW1t%2B3toec9JhzskALxXVS8oCDWlwUIBsUKtElNA0a9qTo1qi6QAtcJrXetFFq%2BSM%2ByRbEj9KmxCASh5I0q840VE55MhjNJdZfnJKlLIihkddXB6qNvf3HLGOmoPNH%2FvrlF6aI26rM6%2F%2BU94wF2Lx%2F%2BE8ff9R%2FAdaLn5bhxOrw6MHC4f%2FNY9MVZQDTKDR8bNphNUog%3D%3D&rb=x",
+        "codigo_produto": "MLB1956494500"
+    },
+    {
+        "valor": 226.54,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Vulc Raid3r Skateboarding Masculino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_918736-MLB49764016938_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2188378446-tnis-vulc-raid3r-skateboarding-masculino-adidas-_JM?searchVariation=174241126199#searchVariation=174241126199&position=16&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2188378446"
+    },
+    {
+        "valor": 234.25,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Galaxy 5 Feminino - adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_752826-MLA47937023325_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2071214240-tnis-galaxy-5-feminino-adidas-_JM?searchVariation=173860493294#searchVariation=173860493294&position=17&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2071214240"
+    },
+    {
+        "valor": 229.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Runfalcon 2.0 Masculino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_649442-MLB48870338094_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2103494851-tnis-runfalcon-20-masculino-adidas-_JM?searchVariation=173971555539#searchVariation=173971555539&position=18&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2103494851"
+    },
+    {
+        "valor": 172.02,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Feminino Advantage Base Cor Preto Liso E Branco adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_705396-MLA47937023315_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2071207708-tnis-feminino-advantage-base-cor-preto-liso-e-branco-adidas-_JM?searchVariation=173860476274#searchVariation=173860476274&position=19&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2071207708"
+    },
+    {
+        "valor": 275.79,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Run Falcon 2.0 Masculino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_960111-MLA49169534717_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2188372607-tnis-run-falcon-20-masculino-adidas-_JM?searchVariation=174241014713#searchVariation=174241014713&position=20&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2188372607"
+    },
+    {
+        "valor": 419.9,
+        "valor_parcelado": 4199.0,
+        "nome_produto": "Tênis adidas Superstar Slip-on Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_790397-MLB49120320459_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1897789189-tnis-adidas-superstar-slip-on-feminino-_JM?searchVariation=86068784934#searchVariation=86068784934&position=21&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1897789189"
+    },
+    {
+        "valor": 274.8,
+        "valor_parcelado": 0.0,
+        "nome_produto": "adidas Grand Court Base Homem Adultos",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_761543-MLA48455529237_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://www.mercadolivre.com.br/tnis-para-homem-adidas-grand-court-base-cor-tech-inkcloud-whitelegend-ink-adulto-39-br/p/MLB18668479?pdp_filters=category:MLB23332#searchVariation=MLB18668479&position=3&search_layout=grid&type=product&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2153606094"
+    },
+    {
+        "valor": 299.9,
+        "valor_parcelado": 2699.1,
+        "nome_produto": "Tênis adidas Duramo Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_935394-MLB48802100447_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1926427167-tnis-adidas-duramo-masculino-_JM?searchVariation=174073196031#searchVariation=174073196031&position=24&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1926427167"
+    },
+    {
+        "valor": 379.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Racer Tr21 Masculino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_643732-MLA49169541178_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2188343426-tnis-racer-tr21-masculino-adidas-_JM?searchVariation=174241114010#searchVariation=174241114010&position=25&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2188343426"
+    },
+    {
+        "valor": 139.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Fortarun X adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_654698-MLB46836253818_072021-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=k3vdayETYn9CLp%2BQvlcKOp1VZtIUIaIk5Ea03NvsrDzWUD%2BnSrUXkf03Nx2tExzJMbVYZYHLdrhbgkq%2BXKOUDOeewcvskA%2BkL0HRDmeVsTR%2BhVJV3JHwePFsg2gpaboLC06qfabgFcKJHTZA4n7Oc3NEu%2BkTT9FlUKdNQvJBbY%2FvkZ1HuX%2ByyaAlhIPPFUc01N6NFaaBzR1K2YzgFFg1JQWEmlv0Bg3wG4IhUqA44BDu4oEG%2BOmE5Oa83908lMw%2FN0juMx49YBusYDdhBzgVL7HBPjyJrfAynAQ9Jj09ttJ75rOaxQM3WEEw01prBynELrG9PJqxhuynhDvcGQRZvaBZ1%2BmJ2DdiPZ%2BC9E7SrHgHe3rQBwUyAfa1oDH8aZiHWJpm7CM75C2MoX88RUD1deN4Z6bTu7%2F68pG2AIZJHpyrxABQBQ5S9FEDfbicVGltJto956e2ArFI4MQsKKE5eb5UlekX%2BeeaIUF38aHyk%2BsmJ%2Ft%2FPIvzYWENTQabueHgrM9fgurLxhVmJfBiFo4QC6vFu1aMKYe9l40SewTdEvsgUqGt94aLMZSH%2FNI%2BJGJCYYjx8iCsHuhYmcQv1fMzroRkioB5ZM1BEmNH9Iyx5Ye%2BnG9TXGIGaaRTHrn9tK0Np8NlbMHulCNiwFw9j%2BBMseQUjewV%2F5BtZFua3TuXS6dFwgcNy8t%2FFt8i%2FeJP3HO80f2Gcgr26uCXqT3fvZG52xwXpJ%2B9yqqZNj8bmbN6tQ%3D%3D&rb=x",
+        "codigo_produto": "MLB1956111815"
+    },
+    {
+        "valor": 299.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Run 80s adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_763366-MLB49024338371_022022-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=jdGpolpwtuCSOB5ILfMhoPSfwKd%2B1niGXiTWgMSWW%2FUTccZ2IoJ2eGWs9IPVcGYksAePPcVCil9Y%2FIJOfCfZl6nLs9cOMBDEqapBGurjlUfNHqBHN0omG6tnA%2B0NfiLg3JbpGVneZ07okL4Fa9TPxunK5fOms8w%2Bkv9pXvhWlgqIa%2FAGr70lHHR4o6jyO0HIrzPK6zmKqdlHXa1rlmbc7HVDtlhhPx0ZRgthJkN%2FeHOlBKxL%2F07zeOdVdvGQNXbxBQNaNSnBfGFA3ENhBZJMRjkX%2BiMDxycTF%2BfO37WM7oH54BXD6OkzWGX6ZvL%2B2uCGaNgSFvOa7bi11r%2Bj7uFxTs8LldJwyS0hceeEnpGnQNQqK30edlw6CCcITBFaqO%2FLR94%2BY0XgpVcbUDdI62%2FUcrdGl5flDok%2FmR7yNeZJzY4K8x7U5Dwr%2F1eLkqPnEzjzFT7YwYZh4nnK92aFMkM8JJi2oz1jzPJRBu9zvEXOx%2BVKOEZ7RkFDgQQRlaiTaUleeEGcbXpWNlNzNEdNuzLPOLhrlFT7jKPJJ0uM0O0v1lm%2BxG3KHuOaMa%2FLpl8fGyfLrVCyJpU%2FPq6OnguF1k%2FBQBfCL1loft%2BQNB7XaqZ0z43ckDqRqaUBfS%2FAGVxuapIS8JVclCV%2BMBl1EX2Gg6kLdCwWWhWC75nt%2BNO%2FwRUkeehEbnt2ixAEmrYi1efeh30%2BrJqI5a55Er9Fib8Wrkd3NCiLphnmF7oWwSjt0w%3D%3D&rb=x",
+        "codigo_produto": "MLB2166663624"
+    },
+    {
+        "valor": 239.9,
+        "valor_parcelado": 1679.3,
+        "nome_produto": "Tênis adidas Grand Court Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_619385-MLB46219616341_052021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1901269555-tnis-adidas-grand-court-masculino-_JM?searchVariation=86420413426#searchVariation=86420413426&position=26&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1901269555"
+    },
+    {
+        "valor": 299.99,
+        "valor_parcelado": 2699.91,
+        "nome_produto": "Tênis Advantage Base Branco(white) adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_663909-MLB46862807037_072021-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1958540078-tnis-advantage-base-brancowhite-adidas-_JM?searchVariation=92112314598#searchVariation=92112314598&position=27&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1958540078"
+    },
+    {
+        "valor": 262.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Run Falcon 2.0 Feminino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_804237-MLA48659467226_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2134151299-tnis-run-falcon-20-feminino-adidas-_JM?searchVariation=174074683257#searchVariation=174074683257&position=28&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2134151299"
+    },
+    {
+        "valor": 349.9,
+        "valor_parcelado": 4198.799999999999,
+        "nome_produto": "Tênis adidas Runfalcon Masculino - Original",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_866088-MLB47938017434_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "5M Sports",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1724186456-tnis-adidas-runfalcon-masculino-original-_JM?searchVariation=174136352290#searchVariation=174136352290&position=29&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1724186456"
+    },
+    {
+        "valor": 299.9,
+        "valor_parcelado": 2699.1,
+        "nome_produto": "Tênis adidas Pace - Original",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_628422-MLB48966117283_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "5M Sports",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1630540396-tnis-adidas-pace-original-_JM?searchVariation=174286496961#searchVariation=174286496961&position=30&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1630540396"
+    },
+    {
+        "valor": 219.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Runfalcon 2.0 Masculino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_608179-MLB48810460261_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2071220395-tnis-runfalcon-20-masculino-adidas-_JM?searchVariation=173860463386#searchVariation=173860463386&position=31&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2071220395"
+    },
+    {
+        "valor": 239.9,
+        "valor_parcelado": 1679.3,
+        "nome_produto": "Tênis adidas Grand Court Base Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_634227-MLB46219618109_052021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1901277764-tnis-adidas-grand-court-base-masculino-_JM?searchVariation=95639975986#searchVariation=95639975986&position=32&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1901277764"
+    },
+    {
+        "valor": 278.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tenis adidas Vs Pace",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_871505-MLB48067496143_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1515439468-tenis-adidas-vs-pace-_JM?searchVariation=87828650339#searchVariation=87828650339&position=33&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1515439468"
+    },
+    {
+        "valor": 275.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tenis adidas Grand Court Base M",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_641023-MLB47472786867_092021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1515195322-tenis-adidas-grand-court-base-m-_JM?searchVariation=84062519986#searchVariation=84062519986&position=34&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1515195322"
+    },
+    {
+        "valor": 249.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Feminino Puremotion White adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_881420-MLB49323002580_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2134151266-tnis-feminino-puremotion-white-adidas-_JM?searchVariation=174074683236#searchVariation=174074683236&position=35&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2134151266"
+    },
+    {
+        "valor": 268.06,
+        "valor_parcelado": 3216.7200000000003,
+        "nome_produto": "Tenis Masculino adidas Lite Racer - Original",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_666075-MLB49302623308_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2174866130-tenis-masculino-adidas-lite-racer-original-_JM?searchVariation=174194001448#searchVariation=174194001448&position=36&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2174866130"
+    },
+    {
+        "valor": 199.99,
+        "valor_parcelado": 1199.94,
+        "nome_produto": "Tênis Run Falcon 2.0 adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_847787-MLB45058508850_032021-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1812273550-tnis-run-falcon-20-adidas-_JM?searchVariation=77598774638#searchVariation=77598774638&position=37&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1812273550"
+    },
+    {
+        "valor": 259.9,
+        "valor_parcelado": 2079.2,
+        "nome_produto": "adidas Lite Racer 2.0 Homem Adultos",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_885221-MLA48330009665_112021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://www.mercadolivre.com.br/tnis-para-homem-adidas-lite-racer-20-cor-core-blackcloud-whitecore-black-adulto-41-br/p/MLB18670193?pdp_filters=category:MLB23332#searchVariation=MLB18670193&position=4&search_layout=grid&type=product&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2623798458"
+    },
+    {
+        "valor": 226.54,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Lite Racer 3.0 Feminino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_738508-MLB49764616027_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2188384569-tnis-lite-racer-30-feminino-adidas-_JM?searchVariation=174241107708#searchVariation=174241107708&position=38&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2188384569"
+    },
+    {
+        "valor": 499.99,
+        "valor_parcelado": 4999.9,
+        "nome_produto": "Ax2s-verde adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_757918-MLB49593969419_042022-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2606364468-ax2s-verde-adidas-_JM?searchVariation=174383753179#searchVariation=174383753179&position=39&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2606364468"
+    },
+    {
+        "valor": 299.9,
+        "valor_parcelado": 2699.1,
+        "nome_produto": "Tênis adidas Runfalcon 2.0 Feminino - Preto E Branco",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_959907-MLB48820200661_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Sports Sales",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2140845054-tnis-adidas-runfalcon-20-feminino-preto-e-branco-_JM?searchVariation=174094516240#searchVariation=174094516240&position=40&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2140845054"
+    },
+    {
+        "valor": 279.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Ultimashow Feminino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_706634-MLA48659465485_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2134183178-tnis-ultimashow-feminino-adidas-_JM?searchVariation=174074707110#searchVariation=174074707110&position=41&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2134183178"
+    },
+    {
+        "valor": 229.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Lite Racer 3.0 Masculino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_841339-MLB49764172896_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2188372610-tnis-lite-racer-30-masculino-adidas-_JM?searchVariation=174241014755#searchVariation=174241014755&position=42&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2188372610"
+    },
+    {
+        "valor": 203.91,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Feminino Lite Racer 3.0 Black adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_619299-MLB49321869246_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2106851589-tnis-feminino-lite-racer-30-black-adidas-_JM?searchVariation=173982652298#searchVariation=173982652298&position=43&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2106851589"
+    },
+    {
+        "valor": 239.9,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Duramo Sl Feminino - adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_997631-MLA47951506386_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2071182413-tnis-duramo-sl-feminino-adidas-_JM?searchVariation=173860405135#searchVariation=173860405135&position=44&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2071182413"
+    },
+    {
+        "valor": 0.0,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis adidas Duramo Sl Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_630238-MLB49461632014_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2217116821-tnis-adidas-duramo-sl-feminino-_JM?searchVariation=174339360512#searchVariation=174339360512&position=45&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2217116821"
+    },
+    {
+        "valor": 227.75,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Feminino Lite Racer 3.0 adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_874314-MLB49344708377_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2166518576-tnis-feminino-lite-racer-30-adidas-_JM?searchVariation=174167086719#searchVariation=174167086719&position=46&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2166518576"
+    },
+    {
+        "valor": 209.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Runfalcon 2.0 Feminino adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_869179-MLB48809769415_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2071250894-tnis-runfalcon-20-feminino-adidas-_JM?searchVariation=173860500598#searchVariation=173860500598&position=47&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2071250894"
+    },
+    {
+        "valor": 314.91,
+        "valor_parcelado": 0.0,
+        "nome_produto": "adidas QT Racer Sport Mulher Adultos",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_951203-MLA48340246537_112021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://www.mercadolivre.com.br/tnis-para-mulher-adidas-qt-racer-sport-cor-core-blackcore-blackscreaming-pink-adulto-38-br/p/MLB18688150?pdp_filters=category:MLB23332#searchVariation=MLB18688150&position=5&search_layout=grid&type=product&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2176155446"
+    },
+    {
+        "valor": 299.9,
+        "valor_parcelado": 3598.7999999999997,
+        "nome_produto": "Tênis adidas Puremotion Adapt - Original",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_924458-MLB46220707723_052021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "5M Sports",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2068355326-tnis-adidas-puremotion-adapt-original-_JM?searchVariation=173850921292#searchVariation=173850921292&position=48&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2068355326"
+    },
+    {
+        "valor": 299.9,
+        "valor_parcelado": 2699.1,
+        "nome_produto": "Tênis adidas Grand Court Base",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_906056-MLB45456729370_042021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1846029944-tnis-adidas-grand-court-base-_JM?searchVariation=80932937170#searchVariation=80932937170&position=49&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1846029944"
+    },
+    {
+        "valor": 249.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Run Falcon 2.0 adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_900533-MLB47836152775_102021-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2051472725-tnis-run-falcon-20-adidas-_JM?searchVariation=173793368250#searchVariation=173793368250&position=50&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB2051472725"
+    },
+    {
+        "valor": 299.9,
+        "valor_parcelado": 2699.1,
+        "nome_produto": "Tênis adidas Pace Masculino - Original",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_788775-MLB45979326686_052021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Sports Sales",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-919971748-tnis-adidas-pace-masculino-original-_JM?searchVariation=84937331452#searchVariation=84937331452&position=51&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB919971748"
+    },
+    {
+        "valor": 299.9,
+        "valor_parcelado": 3598.7999999999997,
+        "nome_produto": "Tênis Lite Racer Masculino - Original",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_758505-MLB48864124629_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "5M Sports",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1188592948-tnis-lite-racer-masculino-original-_JM?searchVariation=174384184907#searchVariation=174384184907&position=52&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1188592948"
+    },
+    {
+        "valor": 249.9,
+        "valor_parcelado": 2998.8,
+        "nome_produto": "Tênis Lite Racer ",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_824687-MLB47051110732_082021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "5M Sports",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-1188587389-tnis-lite-racer-_JM?searchVariation=74591198658#searchVariation=74591198658&position=53&search_layout=grid&type=item&tracking_id=0595870d-90d2-43f7-8b42-97a286cff5ff",
+        "codigo_produto": "MLB1188587389"
+    },
+    {
+        "valor": 199.99,
+        "valor_parcelado": 1199.94,
+        "nome_produto": "Tênis Grand Court adidas",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_811126-MLB49593954426_042022-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "Adidas",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=NEV9Xs3jO%2FhfbX36X2BkFze8vsYZcXzh704NyxWScO1LmW%2BtMEjKR4C4cDA3bgswvuLWMyHLLKySkqDtq079rJLmWXdoo6XTrntYL5ffZwRBneHwJObRa6IEvCAuba9zgUeNHHUJ17cMluQS3tsFzzKvZ6t1z8nVYRDmzEurfzcsIoMZ1xBl17QG%2F4IKRb1NSukkRY%2FdPU9LU5rjcd7xKjQTWtawj2MVodLIz4rHtE6X%2FeNFlWva8ZD2TbJgVqRCvTaR8GYKSplFaV8r00FjIsmVNPb8mk0rfVFOatANVga3x%2F4t%2F5HiE6yZ1zC7RhPbrbHce3EF236sh48%2FLHpZUKiQTpUbZmHPXSPG1iB2u8ZQYQvX%2FiUHIVxi2EfYik35hS2Cc1uwyCrUpamfXg2gG6EIwXXu4Z2I79TAmblIzj7uLiySROObMVuyRLMt8BTmERr%2BAfDdmjyZvvHNk76Fy0dQxWcMxPtfHeuEINNoc2q2LSwws8T6BVVnTZ4pTVdoQbv5R6xkteQwWMfT416NLnTpaTLiFeLnOcRYS%2Fz%2FYcJf54Ll8x3c0R5bbSZ%2Fxoj62t1FHJ2VuJA10P1%2FJ3E7y6U5IkpwL%2Bg4oQJjdQA8aSDb3XkOKJWtfWSlIJd10SPYqpZDm5Y1aBUM4EuPuQlrhIEjHxa%2FFt8R0M%2FzSIQQ0vpp%2BSoWWxduHSIBaC6z9hfvwCniuSJppxJjtTqColed9hIfF7slOFgNVflCt9ZbJ1c%3D&rb=x",
+        "codigo_produto": "MLB2606364427"
+    }
+]

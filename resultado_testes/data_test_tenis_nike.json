@@ -1,0 +1,542 @@
+[
+    {
+        "valor": 69.9,
+        "valor_parcelado": 419.40000000000003,
+        "nome_produto": "Tênis Feminino Original Gaikan 1.0 Caminhada Academia",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_991838-MLB49602296023_042022-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=GtOZGPJAmCeZS2zidjwbuYukUx9IveQdtbPenJo6JyFD34X%2FGfXi0FP0Nohh%2FhWp%2BkNALJdfodlyvpYMMULjFNFqH%2BZ%2BJA3SwG2EBdiNK3DL3hC94dirpgIdrDtlo%2FF1p5uGBvEJ0MjBLIyPToKjtkW%2BVBfdYMVUpop1rIO7xEzVPn%2BTLpidmhRDv9wL%2F1xhxyI8eVVXfy02YTh1fRnxIe2EhHNEz2S7ysQDHErsA48a%2BXEajx6%2Bj2OHMwJpTqbPHnf3tRrn8AADKU6TvIK%2FmUT1yCzjOpIKKrEps1JStFVWQAYj%2FjpHvNqf%2BV2XB9ln3LagxlWWYLSeoo9fplpqgJimZUXZdO2wolN0jzvq9H1hIWTz%2Fq%2FXNgy7KIXPpeZ3BGRXsU6bDGY6QrJ82HuNROvOwETsa4%2FniMw61DbdiMBIuOjAojyMF9juOmkpKcDcuJ2U9VFdDapRSAsfMKKiaMAu7oIloyCjt9yfaWPKaJxHF%2BgRDdIzRXJbVXk7pA8EEVDKKT7TqM%2F2zT6yeeZ6GBIVBRWu4rZ%2B6CMdH6tzp26NyhKTSBddzNCyvQchousTzsUh8KzYBW2F1MZS1fC80Db2LwfQcLbHFsKxXBVEWrAeklwp5AIKnGGYyvd099pcZEcMVvTIB%2FD60BQ07DsiZnkHE1M5EzqTs6GrW0IDRO4pLeTN%2BCn5ovFNo1AaEtP55zN8cnQojEVeJvGeBLYElChA%2Bn8%2F5bjt%2BeqHaha0EFuGTjOGHLxFHULjgj1QG4KeULFqaCQ3Q1aE&rb=x",
+        "codigo_produto": "MLB2608414797"
+    },
+    {
+        "valor": 189.99,
+        "valor_parcelado": 1139.94,
+        "nome_produto": "Tï¿½nis Nike Downshifter 11 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_971166-MLB49202671391_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2188125594-tnis-nike-downshifter-11-masculino-_JM?searchVariation=174239907633#searchVariation=174239907633&position=2&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2188125594"
+    },
+    {
+        "valor": 271.59,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Revolution 6 Next Nature Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_981398-MLB48468708714_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2108383774-tnis-nike-revolution-6-next-nature-masculino-_JM?searchVariation=173987345135#searchVariation=173987345135&position=3&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2108383774"
+    },
+    {
+        "valor": 349.19,
+        "valor_parcelado": 3491.9,
+        "nome_produto": "Tênis Nike Air Max Sc Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_801298-MLB49636877473_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2610388314-tnis-nike-air-max-sc-masculino-_JM?searchVariation=174397241707#searchVariation=174397241707&position=4&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2610388314"
+    },
+    {
+        "valor": 299.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Sportswear Court Vision Mid Next Nature Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_879316-MLB49195870311_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2187317797-tnis-nike-sportswear-court-vision-mid-next-nature-masculino-_JM?searchVariation=174235746648#searchVariation=174235746648&position=5&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2187317797"
+    },
+    {
+        "valor": 189.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Star Runner 3 Infantil",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_959913-MLB49197431896_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2187452345-tnis-nike-star-runner-3-infantil-_JM?searchVariation=174236455464#searchVariation=174236455464&position=6&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2187452345"
+    },
+    {
+        "valor": 169.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Downshifter 11 Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_850162-MLB49511563491_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2221567701-tnis-nike-downshifter-11-feminino-_JM?searchVariation=174354905903#searchVariation=174354905903&position=7&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2221567701"
+    },
+    {
+        "valor": 369.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Zoom Prevail Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_708360-MLB48797437006_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2137899933-tnis-nike-zoom-prevail-masculino-_JM?searchVariation=174085933965#searchVariation=174085933965&position=8&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2137899933"
+    },
+    {
+        "valor": 449.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Air Max Ap Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_771706-MLB49648890274_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2611631532-tnis-nike-air-max-ap-masculino-_JM?searchVariation=174401131365#searchVariation=174401131365&position=9&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2611631532"
+    },
+    {
+        "valor": 290.99,
+        "valor_parcelado": 2618.91,
+        "nome_produto": "Tênis Nike Court Legacy Canvas Mid Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_890606-MLB48031305656_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2067773641-tnis-nike-court-legacy-canvas-mid-feminino-_JM?searchVariation=173847542050#searchVariation=173847542050&position=10&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2067773641"
+    },
+    {
+        "valor": 68.64,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Masculino Original Gaikan 1.0 Caminhada Academia",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_753933-MLB49526236371_032022-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=by8gWLsQXyl2yaev0A0M55Asdgrv1VdedHM20a%2B4xIuDBvZMLkNidlkraeopef%2BMjOV%2BAqH%2FG2L0nrSJi%2Fz15QqQM5WtOa4noOeV6lFRCChkjlD4MwsngVR0CS4Pb%2FuGgMI1qMhjm3VEFhyvLJ3F09ujSyYqiev3cxtVux5ZR8BknSnSR%2Bk4rBBa8b%2BsIL6PXxp5XyQOmWwCF14QiC%2BmLLfktudFDdyQ9yeVZ3ttsh6p4GMln476BYoyxWv98aFf6ZtmECpZ2tIwuvrqQ5tEAoweo7RxTDn2mgJ9S4U8OMB5wuZ61QvUmQLYETFvyX4r4HgX2xPBn0yncvR6yl4ML6vb6Oj3mGEHhYp99nVJ%2BYsGKdNgB6FYsAsKQEMYAoNTEmAaCr1AUzrYvo5x6loXd7Y7xzxTatY9epGOO1Xmq%2FmSNB2tuf%2F9z5WfPqhYNIfOF8cZ2Ux2HJ1Y1p6AMgSDfPPnClyjpLSK3HoBqIEaOZDdBZhnS8txigMW5WAeC%2FQM00hMzRNkG3p5ywQCPJPVdFixdtiy1E%2B0CTeUsL3ZC18LyJTz1DIsJkq1xiuVBY7dmGzAxxee%2BoRz5uY%2BC%2BSHufF%2B1F6MXFWaSvtOKIeK0nNu09%2B9%2FpJNNxjuY1p%2BF3u%2Byxi1dAWmslvItUa7WTgYwbh6zORv9903dmlim99KJjndB6aV%2BCZy6vrSIrRoP8gMyGHImyGHOpecq8lazq6nPlATNfBUnf2D7Ols2dQu98%2F3FNNaMRCjDXuQ06bGctdKWNGyz0hbuqJB1mrlqQ%3D%3D&rb=x",
+        "codigo_produto": "MLB2603231473"
+    },
+    {
+        "valor": 78.9,
+        "valor_parcelado": 473.40000000000003,
+        "nome_produto": "Tênis Masculino Original Gaikan 1.0 Para Caminhada Academia",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_605557-MLB49526294121_032022-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=IoETTmlFf0pKy8Yv63ZQFFExPVDL1gUFPJUjfLTBu5m3ejn7aaqG5N7vAhAACko85Y2JL%2Bj6Cd1WH9AzgP9KCWemz1C5qC8TAYkKN%2BP1KPhvbGoLZwK1jqwWx%2BhLsW2HdW7gkTmbS2bPXjIPopP3Rz8Ie4bpFL6hMGfzVoIH9jKEP1EHFAfmCtrBqlURMDy3BJVuURGFz%2BbqNE84q%2FShrrwOu6ugi97Cyxxml1QPx3W8nm53dINkP%2BMl5CfqH5%2BmxmYlgoNx8ntpsc5cZByP8dWsA%2Begymd493t0SCdns8hqV0VhUSQSqWbVwQnwPkP2QtPcS1tLDGKJI05QCeCE%2Ff5JH3EFi%2FAVXb3F9rWQ%2Fn2KFBayAWFmiGARzcymuIWHHR7fmxPlJPoK%2FOjhKhnd6Z5rHerT0sIr3eRJWdPyf1LJpWuzDLrzPVhMd3KGrWxhC1T3thpBC0mjZp24HAsloEbJq454aavoOUo6jzTvvcKV1Hks%2BC7mkjzuyGgHwslF9KJDrVwEDpj4Qnep8DU10wdvODfdnDNyZdQLQ1nU78aJcyfX2puJy8wkWR8EyulEhaavhp8pt9xZukOum%2FsHsc915gCPeL5DpUum95p62s9sRQhsua6yEmD57PxV6mFXIk2nqKKKypmRR2OteOF%2F%2FsGHTr1EDO6San2%2BIsTtYl5B2SqMmKb99tQKASN9Q46O0LfQZg%2BkmJljEoUt2afGXr6%2F5CH6GygzmQnLionvtRAvVuufwuR8uJFkpnywzDIaACn3PdLm66knpfliE5B1iEcD&rb=x",
+        "codigo_produto": "MLB2222963716"
+    },
+    {
+        "valor": 239.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Quest 4 Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_840086-MLB48797473197_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2137925890-tnis-nike-quest-4-feminino-_JM?searchVariation=174085953013#searchVariation=174085953013&position=13&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2137925890"
+    },
+    {
+        "valor": 489.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Air Max Alpha Trainer 4 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_765465-MLB48334888353_112021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2096288841-tnis-nike-air-max-alpha-trainer-4-masculino-_JM?searchVariation=173944951677#searchVariation=173944951677&position=14&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2096288841"
+    },
+    {
+        "valor": 223.09,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Downshifter 11 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_820914-MLB47982884433_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2063706908-tnis-nike-downshifter-11-masculino-_JM?searchVariation=173833354264#searchVariation=173833354264&position=15&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2063706908"
+    },
+    {
+        "valor": 279.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Revolution 6 Next Nature Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_606027-MLB48469504402_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2108421887-tnis-nike-revolution-6-next-nature-masculino-_JM?searchVariation=173986681352#searchVariation=173986681352&position=16&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2108421887"
+    },
+    {
+        "valor": 179.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Revolution 6 Infantil",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_744754-MLB49197721818_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2187447445-tnis-nike-revolution-6-infantil-_JM?searchVariation=174236802314#searchVariation=174236802314&position=17&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2187447445"
+    },
+    {
+        "valor": 259.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nikecourt Lite 2 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_993286-MLB48037340866_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2068155014-tnis-nikecourt-lite-2-masculino-_JM?searchVariation=173849946287#searchVariation=173849946287&position=18&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2068155014"
+    },
+    {
+        "valor": 409.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Court Legacy Canvas Mid Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_922029-MLB49297271987_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2197995245-tnis-nike-court-legacy-canvas-mid-masculino-_JM?searchVariation=174279752189#searchVariation=174279752189&position=19&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2197995245"
+    },
+    {
+        "valor": 529.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Air Max Impact 3 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_687484-MLB49298965350_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2198238753-tnis-nike-air-max-impact-3-masculino-_JM?searchVariation=174280744536#searchVariation=174280744536&position=20&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2198238753"
+    },
+    {
+        "valor": 409.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Sb Chron 2 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_649633-MLB48836351591_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2143107913-tnis-nike-sb-chron-2-masculino-_JM?searchVariation=174100157156#searchVariation=174100157156&position=21&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2143107913"
+    },
+    {
+        "valor": 89.9,
+        "valor_parcelado": 539.4000000000001,
+        "nome_produto": "Tênis Feminino Corrida Yes Fit Niki Caminhada Academia Origi",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_983089-MLB49391622861_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=H%2BOOMCxmtsTSjIU1abHkP%2Fc5I11W01dDBZapPdWZYfb1yh%2FTsDvfiUyO%2FMBHe5YWK7H7yiEP4G8sTkJMrnfDDqiidrksGYjiTBU%2Bf3dvsdmGop%2FITvi22IBhmE2TE0My7zRbeQWFrXkFArUC3TSJ4A4FRGFoxizImIm4SB5qb3QwxWu%2BDGtesKm%2FfSreeB73%2FGyVE6LhvaWqgZN%2FoMfWpmbAn5r9y6EDkNUvZ1XFqOLYilkuDn3E1b16aqH5hZnoLp1PAoxQrpMByeKEQQ3lamGSSYf3peq%2BGxQ1WBqZ90POZvNnabXBm2AU5UrDPudg4gjj1V8agyHPWDSPBS8JB2wt%2FXIWNfA9mqBvBz2pIVS3CTKbyodAovd56RqF6n6hOzkcQzZtE6bgBx1EJkoggLWBqqn4Pg6gOMYjFx%2BL0%2BlfY98TA%2FePF4Zv63Na8jlKkgNpUCgeg%2BOlL5AOz2BiETUYsWoL9l7wOY5xwcpDSEJKYzG54VZ66CSeK%2FZYrnWgCkfOBylB2uF2gw4rXnPbTaPgSWxH4XY3VMLlosNQCj3Mx9oOLOfsW9iSbm39DRgzPXfgHAhUQR%2F9rboA%2FDifC8uKlW9h9jKDn4vNVvKE%2FKiAFmRns9E%2F15%2BsoZ9%2FFNlfpT4PfX3ii9LohBbw8QkjjO7vIfIGcuXQFyVhWUmDjumYHkRFqPVK7vblOFQW6V5EeGdqUqKsODh%2F2%2F1azzZkHB9R9ubDssM1hd2rNh9gOizydeybHHtEeP72X81P9lYG7kOrRhf%2FTcjb2uifQ59C4hqynMg%3D&rb=x",
+        "codigo_produto": "MLB2209024986"
+    },
+    {
+        "valor": 79.9,
+        "valor_parcelado": 479.40000000000003,
+        "nome_produto": "Tenis Masculino Corrida Zip Niki Treino Esportivo Original",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_747994-MLB49449959793_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=dCmV%2FY8zcuT24LEy8hm4BOWW9ZqwEgpmUgRcRhUKejMNlDcoYT4G3E2ETMP4%2FByJ8cPkg19lLBcvN8oNYF48%2BsH2RkfOQ28D%2FvnBLwqFgIV6bRShhcM1J%2FNbPX9jx2SailB9Ec%2B5dWK5EjFenMi9EpBGr%2BSE7gC8mKw6INx0X%2Fnx022clnGlTWfjau7E5kWE88u3yfkPyiFMlVaF8byc4peyyM%2F5t9xk9kF2thQZpK1Fl1BHeVip57hapFnsCG7AkjTgu%2FmU4NAqMFocgMlzNJbzKSy8PQz2j3blFcSB6S6FL3A2pdt7EWlOG4%2FhfCxe5deqjuBwYEiUzCHxn6mJSrOvlGpoxrMi7lSp76S6hEftouaAmlTG6e6jH06Fn2D0nDqdZMvaHeFrPI82Jw2AKpTPNj8zPUytZ6Jjoes7252no4oiwK0F46b2jKV4aKy28q0772vpAJNzUJbtNKIb86cmTy9GpR49%2FrGlUGCS%2BphiFvrg9zBYnl5fpggFDRGyJULidO8GbuTJL9cu0wXe5%2ForV%2BMKpFaYL1CskiiTmPQjrepT7T%2BQq4WWCQCrhEzV2NXNWa3Cxby0EpsOSuNnoXuakyaRab8sv5cIgeh088W9%2B8y4m14tE2W8jO2ucnAQ%2BAjilypJty3nJRymGtRYlkrxKIjFSnvX7GNflE3%2BYhixPBSZ2giiGCV7HPFUmvtCdUuyMLIJ6oqVLE103JfAAuVzdjV33UJOp6bwwrcGjbrLp0s3hr%2FdVJ9ohykNI5DxnxeF40Ld6POdVJNStazsIe8MIg%3D%3D&rb=x",
+        "codigo_produto": "MLB2215691022"
+    },
+    {
+        "valor": 349.19,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Air Max Bella Tr 5 Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_629538-MLB49643315198_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2610953333-tnis-nike-air-max-bella-tr-5-feminino-_JM?searchVariation=174399456805#searchVariation=174399456805&position=24&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2610953333"
+    },
+    {
+        "valor": 389.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Winflo 8 Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_694557-MLB49632405267_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2609809222-tnis-nike-winflo-8-feminino-_JM?searchVariation=174396042191#searchVariation=174396042191&position=25&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2609809222"
+    },
+    {
+        "valor": 419.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Tanjun Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_713091-MLB48031574822_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2067786669-tnis-nike-tanjun-masculino-_JM?searchVariation=173847561773#searchVariation=173847561773&position=26&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2067786669"
+    },
+    {
+        "valor": 409.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Flyby Mid 3 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_880417-MLB49637115750_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2610458967-tnis-nike-flyby-mid-3-masculino-_JM?searchVariation=174397385710#searchVariation=174397385710&position=27&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2610458967"
+    },
+    {
+        "valor": 275.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Ad Comfort Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_627789-MLB49648647596_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2611570443-tnis-nike-ad-comfort-feminino-_JM?searchVariation=174400953294#searchVariation=174400953294&position=28&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2611570443"
+    },
+    {
+        "valor": 329.79,
+        "valor_parcelado": 3297.9,
+        "nome_produto": "Tênis Nike Court Royale 2 Next Nature Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_946398-MLB49195529578_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2187311530-tnis-nike-court-royale-2-next-nature-masculino-_JM?searchVariation=174235657256#searchVariation=174235657256&position=29&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2187311530"
+    },
+    {
+        "valor": 359.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Superrep Go 2 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_860366-MLB49297755020_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2198090438-tnis-nike-superrep-go-2-masculino-_JM?searchVariation=174279940065#searchVariation=174279940065&position=30&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2198090438"
+    },
+    {
+        "valor": 449.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nikecourt Zoom Pro Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_874741-MLB49613935192_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2608476290-tnis-nikecourt-zoom-pro-masculino-_JM?searchVariation=174390730852#searchVariation=174390730852&position=31&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2608476290"
+    },
+    {
+        "valor": 407.39,
+        "valor_parcelado": 4073.8999999999996,
+        "nome_produto": "Tênis Nike Court Vision Low Next Nature Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_729584-MLB49610988885_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2608175181-tnis-nike-court-vision-low-next-nature-masculino-_JM?searchVariation=174389930651#searchVariation=174389930651&position=32&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2608175181"
+    },
+    {
+        "valor": 266.79,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Revolution 6 Infantil",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_876141-MLB48469549293_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2108361864-tnis-nike-revolution-6-infantil-_JM?searchVariation=173987424875#searchVariation=173987424875&position=33&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2108361864"
+    },
+    {
+        "valor": 275.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nikecourt Zoom Lite 3 Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_606162-MLB49299081733_032022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2198233286-tnis-nikecourt-zoom-lite-3-feminino-_JM?searchVariation=174280739581#searchVariation=174280739581&position=34&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2198233286"
+    },
+    {
+        "valor": 290.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nikecourt Zoom Lite 3 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_840618-MLB49197858503_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2187553135-tnis-nikecourt-zoom-lite-3-masculino-_JM?searchVariation=174236865549#searchVariation=174236865549&position=35&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2187553135"
+    },
+    {
+        "valor": 180.49,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Star Runner 3 Infantil",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_707828-MLB49552435715_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2602364355-tnis-nike-star-runner-3-infantil-_JM?searchVariation=174369372501#searchVariation=174369372501&position=36&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2602364355"
+    },
+    {
+        "valor": 229.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Court Borough Low 2 Infantil",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_828213-MLB49169967490_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2184173171-tnis-nike-court-borough-low-2-infantil-_JM?searchVariation=174225107437#searchVariation=174225107437&position=37&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2184173171"
+    },
+    {
+        "valor": 312.79,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Wearallday Infantil",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_949090-MLB48832298941_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2142716755-tnis-nike-wearallday-infantil-_JM?searchVariation=174099229078#searchVariation=174099229078&position=38&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2142716755"
+    },
+    {
+        "valor": 469.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Court Vision Alta Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_801622-MLB49571332064_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2603961830-tnis-nike-court-vision-alta-feminino-_JM?searchVariation=174375230298#searchVariation=174375230298&position=39&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2603961830"
+    },
+    {
+        "valor": 509.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Air Max Sc Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_950659-MLB49633085995_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2609957711-tnis-nike-air-max-sc-masculino-_JM?searchVariation=174396365828#searchVariation=174396365828&position=40&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2609957711"
+    },
+    {
+        "valor": 479.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nikecourt Vapor Lite Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_811692-MLB48040857822_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2068513163-tnis-nikecourt-vapor-lite-masculino-_JM?searchVariation=173851165178#searchVariation=173851165178&position=41&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2068513163"
+    },
+    {
+        "valor": 279.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Revolution 6 Infantil",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_892778-MLB48471216568_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2108437974-tnis-nike-revolution-6-infantil-_JM?searchVariation=173988165839#searchVariation=173988165839&position=42&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2108437974"
+    },
+    {
+        "valor": 469.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Sportswear Court Vision Alta Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_796310-MLB48797538282_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2137900343-tnis-nike-sportswear-court-vision-alta-feminino-_JM?searchVariation=174085934738#searchVariation=174085934738&position=43&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2137900343"
+    },
+    {
+        "valor": 349.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Court Legacy Canvas Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_953076-MLB48334560827_112021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2096287399-tnis-nike-court-legacy-canvas-feminino-_JM?searchVariation=173944948323#searchVariation=173944948323&position=44&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2096287399"
+    },
+    {
+        "valor": 269.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Downshifter 11 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_953803-MLB47982863518_102021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2063681231-tnis-nike-downshifter-11-masculino-_JM?searchVariation=173833383597#searchVariation=173833383597&position=45&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2063681231"
+    },
+    {
+        "valor": 449.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Air Max Excee Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_818383-MLB48333965509_112021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2096199252-tnis-nike-air-max-excee-feminino-_JM?searchVariation=173944859999#searchVariation=173944859999&position=46&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2096199252"
+    },
+    {
+        "valor": 449.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Air Max Intrlk 75 Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_974545-MLB49637701369_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2610552665-tnis-nike-air-max-intrlk-75-feminino-_JM?searchVariation=174397614951#searchVariation=174397614951&position=47&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2610552665"
+    },
+    {
+        "valor": 409.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Court Vision Low Next Nature Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_607930-MLB49611067526_042022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2608162557-tnis-nike-court-vision-low-next-nature-masculino-_JM?searchVariation=174390100931#searchVariation=174390100931&position=48&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2608162557"
+    },
+    {
+        "valor": 407.39,
+        "valor_parcelado": 4073.8999999999996,
+        "nome_produto": "Tênis Nike Venture Runner Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_815095-MLB48835366359_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2143086437-tnis-nike-venture-runner-masculino-_JM?searchVariation=174099890214#searchVariation=174099890214&position=49&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2143086437"
+    },
+    {
+        "valor": 409.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Fly.by Mid 3 Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_799471-MLB49197736991_022022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2187465194-tnis-nike-flyby-mid-3-masculino-_JM?searchVariation=174236828467#searchVariation=174236828467&position=50&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2187465194"
+    },
+    {
+        "valor": 249.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Court Borough Low 2 Infantil",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_700644-MLB48832251746_012022-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2142688680-tnis-nike-court-borough-low-2-infantil-_JM?searchVariation=174099263940#searchVariation=174099263940&position=51&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2142688680"
+    },
+    {
+        "valor": 449.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Air Max Excee Masculino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_722567-MLB48333793812_112021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2096181650-tnis-nike-air-max-excee-masculino-_JM?searchVariation=173944878029#searchVariation=173944878029&position=52&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2096181650"
+    },
+    {
+        "valor": 279.99,
+        "valor_parcelado": 0.0,
+        "nome_produto": "Tênis Nike Revolution 6 Next Nature Feminino",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_613363-MLB48469549110_122021-W.jpg",
+        "frete_gratis": true,
+        "nome_loja": "Nike",
+        "link_produto": "https://produto.mercadolivre.com.br/MLB-2108390134-tnis-nike-revolution-6-next-nature-feminino-_JM?searchVariation=173987375907#searchVariation=173987375907&position=53&search_layout=grid&type=item&tracking_id=af6da3f7-9f57-4924-b73b-8d8c517fdb60",
+        "codigo_produto": "MLB2108390134"
+    },
+    {
+        "valor": 64.9,
+        "valor_parcelado": 389.40000000000003,
+        "nome_produto": "Tênis Feminino Corrida Yes Fit Niki Caminhada Academia Origi",
+        "foto": "https://http2.mlstatic.com/D_NQ_NP_913387-MLB49391584917_032022-W.jpg",
+        "frete_gratis": false,
+        "nome_loja": "NOME_DA_LOJA_NAO_FORNECIDO",
+        "link_produto": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=ixwcD0aJDVFJ%2BvZWEnCOXjpfrqCFg6mLojeJELk7u2Miy5ECv8910gQOArT27p1A%2BGp8RVjc9UFGmkcCpRf3FDX%2BV3fkPgiqd87BnR2aHDlr%2BTHmRoGAnAsPXC8b9LjdZ8qNMy38EGCfnFXXroh2V1GqE1mPLr71sS3gYUXZBCX0fFe5kQ7c7P8NTjyMteXeEqsPd4TSzbX3xSb%2BsEF19HPZ609f%2B6OGx1nrAf2yNLyX86jAiIAw7DLW2AmjnnG3NcPbL7udNfXWR9KpmCq%2Fa6JTWY9rAytBlZanDrwhRE3iOtPL23YL2knq7F5cNOmiuu8w71FwjEs7HbIpAvh0W90K%2BUi65NvgyDH45BJ%2BdkOnliS7shA3fDXzlwlzdpQiZ1S52jiqb2lOt29zLh0%2Bnw3FxSJdWp663U%2Fpuqz6rxx1mR66QcxqCEUaZ4tYzdxPs8ThL8d4pjmlSchyLuxLGYjoiJBY3lKHKlhTBwprQqkT8zOktedIj%2FlL0ghVLPRMSDyp%2BIWvkKL3eklckB6TenRso6t193nw7JRzx32fstA12ZF8AkxTqtks2Gni9SoFPI26XkEyUOlnGyYH%2B%2BK%2BlvSpy0M%2FIT8wI8c9KbOdrA%2BbueWEKvk3aInMXvnGLust%2FrY4mTzDfjCMZj6Bk7ec7DA4ah%2FzZ4fNn0YlfXcUg3wOHMfWpY0hx7i7tCvwpixd1h5PiTmGeOZcxdtG0d8kWfs0oN9Hq5acMm4abQP%2Fse2yqTrA0Vq%2Bg1uPRSd%2BTEbo6tKAGyMvYZKH%2FfkySGLH1zXAQvA%3D&rb=x",
+        "codigo_produto": "MLB2209024716"
+    }
+]
