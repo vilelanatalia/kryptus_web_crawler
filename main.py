@@ -60,7 +60,8 @@ def getProduct(search_link):
         product_code = product.find('input', attrs = {'name': 'itemId'})
         product_image = product.find('img', attrs = {'width': '284'})
 
-        valueParcel = processPriceValue(parcel_value[0].text)
+        
+        valueParcel = processPriceValue(parcel_value[1].text)
         amountParcel = processAmountParcel(amount_value.text)
 
         dado = { 
