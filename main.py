@@ -41,11 +41,6 @@ def parcelValue(valueParcel, amountParcel ):
     valueTotal = valueParcel * amountParcel
     return valueTotal
 
-
-response = requests.get('https://lista.mercadolivre.com.br/tenis-nike')
-mercadoLivre = BeautifulSoup(response.text, 'html.parser')
-
-
 def getProduct(search_link):
     dados = []
     products = search_link.find_all('div', attrs={'class': 'ui-search-result__wrapper'})
@@ -61,14 +56,14 @@ def getProduct(search_link):
         product_code = product.find('input', attrs = {'name': 'itemId'})
         product_image = product.find('img', attrs = {'width': '284'})
 
-        valueParcel = processPriceValue(parcel_value[1].text)
+        valueParcel = processPriceValue(parcel_value[0].text)
         amountParcel = processAmountParcel(amount_value.text)
 
         dado = { 
 
             'valor': processPriceValue(price.text),
             'valor_parcelado': parcelValue(valueParcel, amountParcel),
-            'nome_produto': product_name.text,
+            'nome_produto': str(product_name.text),
             'foto': product_image['data-src'],
             'frete_gratis': hasFreeShipping(free_shipping),
             'nome_loja': processStoreName(store_name),
@@ -80,5 +75,10 @@ def getProduct(search_link):
         dados.append(dado)
     return dados
 
+###MAIN
+search = input("Insira o nome do produto: \n")
+
+response = requests.get('https://lista.mercadolivre.com.br/'+search)
+mercadoLivre = BeautifulSoup(response.text, 'html.parser')
 
 createJson(getProduct(mercadoLivre))
