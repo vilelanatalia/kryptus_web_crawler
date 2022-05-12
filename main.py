@@ -2,6 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import json 
 
+def createJson(datas):
+    json_object = json.dumps(datas, indent = 4, ensure_ascii=False)
+    with open("datas.json", "w", encoding='utf8') as outfile:
+        outfile.write(json_object)
 
 def convertFloat(string_value):
     return float(string_value)
@@ -28,6 +32,7 @@ mercadoLivre = BeautifulSoup(response.text, 'html.parser')
 
 
 def getProduct(search_link):
+    dados = []
     products = search_link.find_all('div', attrs={'class': 'ui-search-result__wrapper'})
 
     for product in products:
@@ -35,7 +40,6 @@ def getProduct(search_link):
         free_shipping = product.find('p', attrs={'class': 'ui-search-item__shipping ui-search-item__shipping--free'}) 
         store_name = product.find('p', attrs= {'class': 'ui-search-official-store-label ui-search-item__group__element ui-search-color--GRAY'}) #ok
         product_name = product.find('h2', attrs= {'ui-search-item__title ui-search-item__group__element'}) 
-        #amount_value = product.find('span', attrs = {'ui-search-item__group__element ui-search-installments ui-search-color--LIGHT_GREEN'})
         amount_value = product.find('div', attrs = {'ui-search-item__group ui-search-item__group--price'})
         parcel_value = product.find_all('div', attrs = {'ui-search-price__second-line'}) 
         product_link = product.find('a', attrs={'class': 'ui-search-result__content ui-search-link'}) 
@@ -44,7 +48,7 @@ def getProduct(search_link):
         valueParcel = processPriceValue(parcel_value[1].text)
         amountParcel = processAmountParcel(amount_value.text)
 
-        dados = { 
+        dado = { 
 
             'preco': processPriceValue(price.text),
             # 'frete_gratis': hasFreteGratis(frete_gratis),
@@ -56,6 +60,8 @@ def getProduct(search_link):
             'codigo_produto': product_code['value']
         
         }
+        dados.append(dado)
     return dados
 
-print(getProduct(mercadoLivre))
+
+createJson(getProduct(mercadoLivre))
