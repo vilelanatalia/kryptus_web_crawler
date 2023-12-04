@@ -1,4 +1,4 @@
-# kryptus_web_crawler
+# web_crawler_mercado_livre
 Um web crawler que varre os dados de uma determinada lista de produtos no mercado livre
 
 # Instruções para iniciar o projeto em sua máquina
